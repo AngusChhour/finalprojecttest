@@ -1,0 +1,37 @@
+.navbar-item {
+  text-decoration: none;
+  color: lightslategray;
+  display: flex;
+  flex-direction: column;
+  width: 65px;
+}
+
+.navbar-item:hover {
+  color: white;
+}
+
+.name {
+  font-family: "Lobster";
+  text-decoration: none;
+}
+
+.carousel-item {
+  width: 1264px;
+  height: 590px;
+  margin-top: 5px;
+  padding-left: 85px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #3a2d28;
+  height: 75px;
+  padding: 0px 20px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: -167px;
+}
